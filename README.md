@@ -92,7 +92,7 @@ Adding Your Own Music:-
 Project Structure:-
 
     📦 responsive-music-player
-    ┣ 📂 assets/
+    
     ┣ 📂 css
     ┃ ┗ 📜 style.css          # Styles for the music player UI
     ┣ 📂 js
